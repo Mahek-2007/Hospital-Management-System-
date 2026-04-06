@@ -1,3 +1,20 @@
+# Python Microproject
+
+## Title:
+Hospital Management System using Python
+
+## Description:
+This project is developed using Python to manage hospital operations such as patient registration, appointment scheduling,
+and billing. It helps reduce manual work, improve accuracy, and organize patient data efficiently.
+
+## Features:
+- Patient Registration and Record Management
+- Appointment Scheduling System
+- Billing and Payment Management
+- Data Storage using File Handling
+- Error Handling using Exception Handling
+
+
 # Hospital Management System
 
 patients = {}
